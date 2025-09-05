@@ -1,7 +1,6 @@
 # sweet-love
 Sweet Love* mengajakmu menyelami perjalanan cinta Arda dan Rina. Sebuah kisah penuh tawa, air mata, dan keputusan besar yang menguji hati.  selamat datang di sweet love
 # 🌸 Sweet Love  
-
 <p align="center">
   <img src="https://picsum.photos/800/250?random=21" alt="Sweet Love Banner" style="border-radius:15px;">
 </p>
