@@ -1,0 +1,140 @@
+{
+  "chapters": [
+    {
+      "title": "Bab 1: Pertemuan",
+      "img": "https://picsum.photos/800/300?random=1",
+      "dialogues": [
+        {"s": "Arda", "l": "Eh, maaf! Aku tidak sengaja menabrakmu."},
+        {"s": "Rina", "l": "Tidak apa-apa 😊, kamu buru-buru ya?"},
+        {"s": "Arda", "l": "Iya, takut telat masuk kelas."},
+        {"s": "Rina", "l": "Haha, aku juga begitu tadi."},
+        {"s": "Arda", "l": "Aku Arda. Boleh kenalan?"},
+        {"s": "Rina", "l": "Aku Rina. Senang kenal kamu."},
+        {"s": "Arda", "l": "Semoga ini awal yang baik."}
+      ]
+    },
+    {
+      "title": "Bab 2: Tatapan Pertama",
+      "img": "https://picsum.photos/800/300?random=2",
+      "dialogues": [
+        {"s": "Rina", "l": "Kamu sering belajar di perpustakaan juga?"},
+        {"s": "Arda", "l": "Iya, aku suka suasana tenang di sini 📚."},
+        {"s": "Rina", "l": "Aku juga. Bikin fokus, ya."},
+        {"s": "Arda", "l": "Atau mungkin karena ada kamu."},
+        {"s": "Rina", "l": "Haha, bisa aja kamu 😅."},
+        {"s": "Arda", "l": "Tapi serius, aku senang bisa ketemu lagi."},
+        {"s": "Rina", "l": "Aku juga."}
+      ]
+    },
+    {
+      "title": "Bab 3: Janji Kecil",
+      "img": "https://picsum.photos/800/300?random=3",
+      "dialogues": [
+        {"s": "Arda", "l": "Minggu depan ada ujian, mau belajar bareng?"},
+        {"s": "Rina", "l": "Boleh, kapan dan di mana?"},
+        {"s": "Arda", "l": "Hari Rabu sore, di taman kampus 🌳."},
+        {"s": "Rina", "l": "Deal, jangan telat ya."},
+        {"s": "Arda", "l": "Kalau telat aku traktir kopi ☕."},
+        {"s": "Rina", "l": "Siap! Aku pilih menu paling mahal nanti 🤭."},
+        {"s": "Arda", "l": "Hahaha, berani ya kamu."}
+      ]
+    },
+    {
+      "title": "Bab 4: Hujan Pertama",
+      "img": "https://picsum.photos/800/300?random=4",
+      "dialogues": [
+        {"s": "Rina", "l": "Arda, kita kehujanan! 🌧️"},
+        {"s": "Arda", "l": "Cepat sini, aku punya payung."},
+        {"s": "Rina", "l": "Untung kamu bawa, aku basah semua."},
+        {"s": "Arda", "l": "Kalau sakit nanti, aku yang salah."},
+        {"s": "Rina", "l": "Tenang, aku kuat kok 💪."},
+        {"s": "Arda", "l": "Tapi aku tetap khawatir."},
+        {"s": "Rina", "l": "Khawatir atau perhatian? 😉"}
+      ]
+    },
+    {
+      "title": "Bab 5: Senyum Manis",
+      "img": "https://picsum.photos/800/300?random=5",
+      "dialogues": [
+        {"s": "Arda", "l": "Rina, kamu cantik banget hari ini ✨."},
+        {"s": "Rina", "l": "Ih, jangan gombal deh."},
+        {"s": "Arda", "l": "Aku serius. Senyummu bikin hari lebih terang ☀️."},
+        {"s": "Rina", "l": "Kalau gitu, aku senyum terus ya."},
+        {"s": "Arda", "l": "Setuju, biar aku semangat belajar."},
+        {"s": "Rina", "l": "Dasar, pintar merayu 🙈."}
+      ]
+    },
+    {
+      "title": "Bab 6: Belajar Bareng",
+      "img": "https://picsum.photos/800/300?random=6",
+      "dialogues": [
+        {"s": "Rina", "l": "Arda, soal ini susah banget."},
+        {"s": "Arda", "l": "Sini aku jelasin ✍️."},
+        {"s": "Rina", "l": "Wah, kamu jago juga ya."},
+        {"s": "Arda", "l": "Kalau sama kamu, aku jadi lebih fokus."},
+        {"s": "Rina", "l": "Jadi aku semangat belajarmu?"},
+        {"s": "Arda", "l": "Iya, semangat dan alasanku juga ❤️."}
+      ]
+    },
+    {
+      "title": "Bab 7: Rahasia Kecil",
+      "img": "https://picsum.photos/800/300?random=7",
+      "dialogues": [
+        {"s": "Rina", "l": "Aku jarang cerita ke orang lain, tapi ke kamu aku bisa."},
+        {"s": "Arda", "l": "Aku senang bisa dipercaya 🙏."},
+        {"s": "Rina", "l": "Aku sering merasa sendiri."},
+        {"s": "Arda", "l": "Sekarang kamu nggak sendiri, ada aku."},
+        {"s": "Rina", "l": "Kamu serius ya?"},
+        {"s": "Arda", "l": "Serius banget 💯."}
+      ]
+    },
+    {
+      "title": "Bab 8: Cemburu",
+      "img": "https://picsum.photos/800/300?random=8",
+      "dialogues": [
+        {"s": "Arda", "l": "Tadi aku lihat kamu ngobrol sama cowok lain."},
+        {"s": "Rina", "l": "Itu cuma temen sekelas kok."},
+        {"s": "Arda", "l": "Aku agak cemburu sih 😕."},
+        {"s": "Rina", "l": "Masa sih? Lucu juga kalau kamu cemburu."},
+        {"s": "Arda", "l": "Aku cuma nggak mau kehilanganmu."},
+        {"s": "Rina", "l": "Tenang, kamu spesial buat aku 💕."}
+      ]
+    },
+    {
+      "title": "Bab 9: Hadiah Kecil",
+      "img": "https://picsum.photos/800/300?random=9",
+      "dialogues": [
+        {"s": "Arda", "l": "Rina, ini aku bawain cokelat 🍫."},
+        {"s": "Rina", "l": "Wah, kesukaan aku!"},
+        {"s": "Arda", "l": "Aku ingat waktu kamu cerita."},
+        {"s": "Rina", "l": "Kamu perhatian banget."},
+        {"s": "Arda", "l": "Karena kamu penting buat aku."},
+        {"s": "Rina", "l": "Makasih ya, Arda 🥰."}
+      ]
+    },
+    {
+      "title": "Bab 10: Malam Festival",
+      "img": "https://picsum.photos/800/300?random=10",
+      "dialogues": [
+        {"s": "Rina", "l": "Lihat, lampionnya indah banget 🎆."},
+        {"s": "Arda", "l": "Iya, tapi senyummu lebih indah 😍."},
+        {"s": "Rina", "l": "Haha, kamu lagi-lagi gombal."},
+        {"s": "Arda", "l": "Aku pengen malam ini jadi kenangan kita."},
+        {"s": "Rina", "l": "Aku juga nggak akan lupa."},
+        {"s": "Arda", "l": "Kalau gitu ayo foto bareng 📸."}
+      ]
+    },
+    {
+      "title": "Bab 20: Janji Abadi",
+      "img": "https://picsum.photos/800/300?random=20",
+      "dialogues": [
+        {"s": "Arda", "l": "Walau jarak memisahkan, hati kita tetap satu 🌍."},
+        {"s": "Rina", "l": "Aku percaya sama kamu, Arda."},
+        {"s": "Arda", "l": "Suatu hari kita akan bersama lagi."},
+        {"s": "Rina", "l": "Dan saat itu, aku nggak akan lepasin kamu."},
+        {"s": "Arda", "l": "Janji kita, cinta ini abadi 💖."},
+        {"s": "Rina", "l": "Janji ✨."}
+      ]
+    }
+  ]
+}
